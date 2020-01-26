@@ -17,5 +17,13 @@
         "psr-4": {
             "bazzlylinks\\paystack\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "bazzlylinks\\paystack\\PaysctackPaymentServiceProvider"
+            ]
+
+        }
     }
 }
