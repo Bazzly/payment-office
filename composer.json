@@ -1,0 +1,19 @@
+{
+    "name": "payment/paystack",
+    "description": "This package is to created and make laravel integration with payment system in nigeria work perfectly",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ALLI BAZEET",
+            "email": "bazeet4love@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "payment\\paystack\\": "src/"
+        }
+    }
+}
