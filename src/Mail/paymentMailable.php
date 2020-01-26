@@ -1,6 +1,6 @@
 <?php
 
-namespace payment\paystack\Mail;
+namespace bazzlylinks\paystack\Mail;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Contracts\Queue\ShouldQueue;

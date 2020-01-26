@@ -1,6 +1,6 @@
 <?php
 
-namespace payment\paystack\Models;
+namespace bazzlylinks\paystack\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
