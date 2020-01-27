@@ -13,6 +13,7 @@ public function boot(){
     $this->mergeConfigFrom(__DIR__ .'/config/officepay.php','paystack');
     $this->publishes([
         __DIR__.'/config/officepay.php' => config_path('officepay.php'),
+        __DIR__.'/views' => resource_path('views/vendor/bazzlylinks'),
     ]);
 }
 
