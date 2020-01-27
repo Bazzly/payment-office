@@ -1,9 +1,10 @@
 
 
-[![GitHub forks badge](https://www.bazzlylinks.com)](https://img.shields.io/github/issues/Bazzly/payment-office)
-[![issues badge](https://www.bazzlylinks.com)](https://img.shields.io/github/issues/Bazzly/payment-office)
-[![Total Downloads](https://www.bazzlylinks.com)](https://img.shields.io/github/issues/Bazzly/payment-office)
-[![License](https://www.bazzlylinks.com)](https://img.shields.io/github/issues/Bazzly/payment-office)
+[![GitHub forks badge](https://img.shields.io/github/forks/Bazzly/payment-office)](https://bazzlylinks.com/)
+[![issues badge](https://img.shields.io/github/issues/Bazzly/payment-office)](https://bazzlylinks.com/)
+[![Total Downloads](https://img.shields.io/github/issues/Bazzly/payment-office)](https://bazzlylinks.com/)
+[![License](https://img.shields.io/github/license/Bazzly/payment-office)](https://bazzlylinks.com/)
+
 
 
 
