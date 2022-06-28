@@ -1,1 +1,1 @@
-This is a payment package that will contain all payment system in Nigeria
+This is a payment package that will contain all payment systems in Nigeria
