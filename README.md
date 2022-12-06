@@ -1,1 +1,2 @@
 This is a payment package that will contain all payment systems in Nigeria
+the aim of this project is to solve the problem of payment sytems downtime issue i.e when one payment provider is down the system should automatically switch to any available payment service providers
